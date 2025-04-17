@@ -1,3 +1,4 @@
 .env
 LangChainTrainings/
 section5_RAGWithDocuments/chroma_langchain_db/
+section7_Agents/
